@@ -1,0 +1,23 @@
+{
+    "currentMetrics": {
+      "recruitmentTarget": 50,
+      "currentEmployees": 112,
+      "monthlyTurnover": {
+        "joining": 15,
+        "leaving": 8
+      }
+    },
+    "monthlyData": {
+      "2024": {
+        "labels": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "turnover": {
+          "joining": [10, 12, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "leaving": [5, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        },
+        "recruitment": {
+          "target": [45, 47, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+          "achieved": [40, 42, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        }
+      }
+    }
+  }
